@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3120"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="fort.a.svg"
+   inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+   inkscape:export-xdpi="756"
+   inkscape:export-ydpi="756">
+  <defs
+     id="defs3122" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.761947"
+     inkscape:cx="310.86954"
+     inkscape:cy="586.90606"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1227"
+     inkscape:window-height="1000"
+     inkscape:window-x="53"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3128" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3125">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="726.9231"
+       inkscape:export-xdpi="726.9231"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4217"
+       d="m 275,437.36218 0,50 50,0 0,-50 -10,0 0,7 -10,0 -10e-6,-7 -9.99999,0 0,7 -10,0 0,-7 z"
+       style="fill:#3b8bba;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4219"
+       width="30"
+       height="5.0000005"
+       x="285"
+       y="477.36218"
+       rx="0.015351368"
+       ry="2.5711794"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+       inkscape:export-xdpi="726.9231"
+       inkscape:export-ydpi="726.9231" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4221"
+       width="30"
+       height="5.0000005"
+       x="285"
+       y="469.36218"
+       rx="0.020258112"
+       ry="5.0000005"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+       inkscape:export-xdpi="726.9231"
+       inkscape:export-ydpi="726.9231" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 310,466.26264 c 0,-5.4129 -4.47715,-9.90046 -10,-9.90046 -5.52285,0 -10,4.58709 -10,10 l 0,-0.0995 10,0 z"
+       id="path4223"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+       inkscape:export-xdpi="726.9231"
+       inkscape:export-ydpi="726.9231" />
+    <path
+       sodipodi:nodetypes="cscccc"
+       inkscape:connector-curvature="0"
+       id="path4225"
+       d="m 305,466.36218 c 0,-2.80273 -2.16881,-5 -5,-5 -2.83119,0 -5,2.19728 -5,5 l 0,0 5,0 z"
+       style="fill:#3b8bba;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+       inkscape:export-xdpi="726.9231"
+       inkscape:export-ydpi="726.9231" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3086"
+       width="50"
+       height="2.0000038"
+       x="275"
+       y="449.36218"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
+       inkscape:export-xdpi="726.9231"
+       inkscape:export-ydpi="726.9231" />
+  </g>
+</svg>

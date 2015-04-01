@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3924"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="logo.b.svg">
+  <defs
+     id="defs3926" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.8809736"
+     inkscape:cx="370.40037"
+     inkscape:cy="557.69529"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1227"
+     inkscape:window-height="1000"
+     inkscape:window-x="53"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3929">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#483d8b;fill-opacity:1;stroke:none"
+       d="m 325.28214,451.94725 0,13 50,0 0,-13 -10,0 0,6 -10,0 0,-6 -10,0 0,6 -10,0 0,-6 -10,0 z"
+       id="rect3041"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.b.png"
+       inkscape:export-xdpi="756"
+       inkscape:export-ydpi="756" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#483d8b;fill-opacity:1;stroke:none"
+       d="m 330.28214,466.94725 0,35 40,0 0,-35 -40,0 z m 20,5 c 3.31371,0 6,2.68629 6,6 l -3.0625,0 c -0.23299,-1.42486 -1.44674,-2.5 -2.9375,-2.5 -1.49076,0 -2.70451,1.07514 -2.9375,2.5 l -3.0625,0 c 0,-3.31371 2.68629,-6 6,-6 z m -10,8 20,0 0,4 -20,0 0,-4 z m 0,6 20,0 0,3 -20,0 0,-3 z m 0,5 20,0 0,4 -20,0 0,-4 z"
+       id="rect3817"
+       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.b.png"
+       inkscape:export-xdpi="756"
+       inkscape:export-ydpi="756" />
+  </g>
+</svg>
