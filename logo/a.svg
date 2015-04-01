@@ -14,7 +14,7 @@
    id="svg3120"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="fort.a.svg"
+   sodipodi:docname="a.svg"
    inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
    inkscape:export-xdpi="756"
    inkscape:export-ydpi="756">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,47 +59,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       inkscape:export-ydpi="726.9231"
-       inkscape:export-xdpi="726.9231"
-       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
-       sodipodi:nodetypes="ccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path4217"
-       d="m 275,437.36218 0,50 50,0 0,-50 -10,0 0,7 -10,0 -10e-6,-7 -9.99999,0 0,7 -10,0 0,-7 z"
-       style="fill:#3b8bba;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect4219"
-       width="30"
-       height="5.0000005"
-       x="285"
-       y="477.36218"
-       rx="0.015351368"
-       ry="2.5711794"
-       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
-       inkscape:export-xdpi="726.9231"
-       inkscape:export-ydpi="726.9231" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect4221"
-       width="30"
-       height="5.0000005"
-       x="285"
-       y="469.36218"
-       rx="0.020258112"
-       ry="5.0000005"
-       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
-       inkscape:export-xdpi="726.9231"
-       inkscape:export-ydpi="726.9231" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 310,466.26264 c 0,-5.4129 -4.47715,-9.90046 -10,-9.90046 -5.52285,0 -10,4.58709 -10,10 l 0,-0.0995 10,0 z"
-       id="path4223"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscccc"
-       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
-       inkscape:export-xdpi="726.9231"
-       inkscape:export-ydpi="726.9231" />
+       style="fill:#3b8bba;fill-opacity:1;stroke:none;opacity:1"
+       d="M 275 437.375 L 275 487.375 L 325 487.375 L 325 437.375 L 315 437.375 L 315 444.375 L 305 444.375 L 305 437.375 L 295 437.375 L 295 444.375 L 285 444.375 L 285 437.375 L 275 437.375 z M 300 456.375 C 305.52285 456.375 310 460.8371 310 466.25 L 300 466.25 L 290 466.25 C 290.06688 460.89053 294.51884 456.375 300 456.375 z M 285.03125 469.375 L 314.96875 469.375 C 314.97997 469.375 315 470.49 315 471.875 C 315 473.26 314.97997 474.375 314.96875 474.375 L 285.03125 474.375 C 285.02003 474.375 285 473.26 285 471.875 C 285 470.49 285.02003 469.375 285.03125 469.375 z M 285 477.375 L 315 477.375 C 315.0085 477.375 315 478.49 315 479.875 C 315 481.26 315.0085 482.375 315 482.375 L 285 482.375 C 284.9915 482.375 285 481.26 285 479.875 C 285 478.49 284.9915 477.375 285 477.375 z "
+       id="path4217" />
     <path
        sodipodi:nodetypes="cscccc"
        inkscape:connector-curvature="0"
