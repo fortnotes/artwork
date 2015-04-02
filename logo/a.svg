@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="a.svg"
-   inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
-   inkscape:export-xdpi="756"
-   inkscape:export-ydpi="756">
+   inkscape:export-filename="/home/sveta/Projects/fortnotes/artwork/logo/a.png"
+   inkscape:export-xdpi="900"
+   inkscape:export-ydpi="900">
   <defs
      id="defs3122" />
   <sodipodi:namedview
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
      id="layer1">
     <path
        style="fill:#3b8bba;fill-opacity:1;stroke:none;opacity:1"
-       d="M 275 437.375 L 275 487.375 L 325 487.375 L 325 437.375 L 315 437.375 L 315 444.375 L 305 444.375 L 305 437.375 L 295 437.375 L 295 444.375 L 285 444.375 L 285 437.375 L 275 437.375 z M 300 456.375 C 305.52285 456.375 310 460.8371 310 466.25 L 300 466.25 L 290 466.25 C 290.06688 460.89053 294.51884 456.375 300 456.375 z M 285.03125 469.375 L 314.96875 469.375 C 314.97997 469.375 315 470.49 315 471.875 C 315 473.26 314.97997 474.375 314.96875 474.375 L 285.03125 474.375 C 285.02003 474.375 285 473.26 285 471.875 C 285 470.49 285.02003 469.375 285.03125 469.375 z M 285 477.375 L 315 477.375 C 315.0085 477.375 315 478.49 315 479.875 C 315 481.26 315.0085 482.375 315 482.375 L 285 482.375 C 284.9915 482.375 285 481.26 285 479.875 C 285 478.49 284.9915 477.375 285 477.375 z "
+       d="M 275 437.375 L 275 449.375 L 325 449.375 L 325 437.375 L 315 437.375 L 315 444.375 L 305 444.375 L 305 437.375 L 295 437.375 L 295 444.375 L 285 444.375 L 285 437.375 L 275 437.375 z M 275 451.375 L 275 487.375 L 325 487.375 L 325 451.375 L 275 451.375 z M 300 456.375 C 305.52285 456.375 310 460.8371 310 466.25 L 300 466.25 L 290 466.25 C 290.06688 460.89053 294.51884 456.375 300 456.375 z M 285.03125 469.375 L 314.96875 469.375 C 314.97997 469.375 315 470.49 315 471.875 C 315 473.26 314.97997 474.375 314.96875 474.375 L 285.03125 474.375 C 285.02003 474.375 285 473.26 285 471.875 C 285 470.49 285.02003 469.375 285.03125 469.375 z M 285 477.375 L 315 477.375 C 315.0085 477.375 315 478.49 315 479.875 C 315 481.26 315.0085 482.375 315 482.375 L 285 482.375 C 284.9915 482.375 285 481.26 285 479.875 C 285 478.49 284.9915 477.375 285 477.375 z "
        id="path4217" />
     <path
        sodipodi:nodetypes="cscccc"
@@ -68,16 +68,6 @@
        id="path4225"
        d="m 305,466.36218 c 0,-2.80273 -2.16881,-5 -5,-5 -2.83119,0 -5,2.19728 -5,5 l 0,0 5,0 z"
        style="fill:#3b8bba;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
-       inkscape:export-xdpi="726.9231"
-       inkscape:export-ydpi="726.9231" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect3086"
-       width="50"
-       height="2.0000038"
-       x="275"
-       y="449.36218"
        inkscape:export-filename="/home/sveta/Projects/fort/logo/fort.a.png"
        inkscape:export-xdpi="726.9231"
        inkscape:export-ydpi="726.9231" />
